@@ -1,0 +1,6 @@
+framework module Pods_boston_showsTests {
+  umbrella header "Pods-boston-showsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

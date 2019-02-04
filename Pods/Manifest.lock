@@ -1,0 +1,18 @@
+PODS:
+  - BEMCheckBox (1.4.1)
+  - CVCalendar (1.6.1)
+  - SwiftIconFont (2.7.3)
+
+DEPENDENCIES:
+  - BEMCheckBox
+  - CVCalendar (~> 1.6.1)
+  - SwiftIconFont
+
+SPEC CHECKSUMS:
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  CVCalendar: 505c11b11a088b43f159806e791eba1c2540853b
+  SwiftIconFont: ebd8ee931a1e7072b61a87aec53f3a0786ef7f2b
+
+PODFILE CHECKSUM: 12fa302a7ff7f804e589a28df1af67378c051881
+
+COCOAPODS: 1.4.0
